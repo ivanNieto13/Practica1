@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Regla de 3 App</string>
+    <string name="app_name"> App calculadora de fórmulas</string>
     <string name="app_version_splash">Versión 1.0</string>
     <string name="app_author">Ivan Nieto</string>
 </resources>
