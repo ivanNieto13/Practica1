@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/bellota_bold"
         android:text="@string/app_spinner_title"
-        android:textColor="@color/material_dynamic_neutral_variant95"
+        android:textColor="#FFFFFF"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
