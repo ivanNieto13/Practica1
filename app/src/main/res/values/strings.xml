@@ -1,5 +1,29 @@
 <resources>
     <string name="app_name"> App calculadora de fórmulas</string>
     <string name="app_version_splash">Versión 1.0</string>
-    <string name="app_author">Ivan Nieto</string>
+    <string name="app_author" translatable="false">Ivan Nieto</string>
+    <string name="app_spinner_title">Selecciona una fórumula</string>
+    <string name="app_formulas_area">Área</string>
+    <string name="app_formulas_perimeter">Perímetro</string>
+    <string name="app_formulas_volume">Volúmen</string>
+    <string name="app_formulas_btn_calculate">Calcular</string>
+    <string name="app_formulas_input_hint" translatable="false">Input</string>
+    <string name="app_img_description">Imagen de fórmula</string>
+    <string name="app_formula_resultado" translatable="false">resultado</string>
+    <string name="app_home">Relizar otro cálculo</string>
+    <string name="app_resultado_titulo">"El resultado es"</string>
+
+    <string name="app_formulas_area_triangulo">Área del triángulo</string>
+    <string name="app_formulas_perimetro_rectangulo">Perímetro de un rectángulo</string>
+    <string name="app_formulas_volumen_cubo">Volúmen de un cubo</string>
+    <string name="app_formulas_longitud">"Longitud/Ancho/Altura"</string>
+    <string name="app_formulas_altura">Altura</string>
+    <string name="app_formulas_base">Base</string>
+    <string name="app_formula_error">Campo requerido</string>
+
+    <string name="app_formulas_tag_resultado" translatable="false">Resultado</string>
+    <string name="app_formulas_forma_triangulo" translatable="false">triangle</string>
+    <string name="app_formulas_forma_rectangulo" translatable="false">rectangle</string>
+    <string name="app_formulas_forma_cubo" translatable="false">cube</string>
+
 </resources>

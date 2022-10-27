@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App calculadora de fórmulas</string>
+    <string name="app_version_splash">Versão 1.0</string>
+    <string name="app_spinner_title">Selecione uma fórmula</string>
+    <string name="app_formulas_area">Área</string>
+    <string name="app_formulas_perimeter">Perímetro</string>
+    <string name="app_formulas_volume">Volume</string>
+    <string name="app_formulas_btn_calculate">Calcular</string>
+    <string name="app_img_description">Imagem da fórmula</string>
+    <string name="app_home">Faça outro cálculo</string>
+    <string name="app_resultado_titulo">O resultado é</string>
+    <string name="app_formulas_area_triangulo">Area do triângulo</string>
+    <string name="app_formulas_perimetro_rectangulo">Perímetro de um retângulo</string>
+    <string name="app_formulas_volumen_cubo">Volume de um cubo</string>
+    <string name="app_formulas_longitud">Comprimento/Largura/Altura</string>
+    <string name="app_formulas_altura">Altura</string>
+    <string name="app_formulas_base">Base</string>
+    <string name="app_formula_error">Campo obrigatório</string>
+</resources>
